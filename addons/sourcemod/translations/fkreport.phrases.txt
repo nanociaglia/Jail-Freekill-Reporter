@@ -1,0 +1,67 @@
+﻿"Phrases"
+{
+	"Max Time"
+	{
+		"#format"	"{1:i}"
+		"en"		"You can use this command only (1) time per round."
+        "es"        "Solo puedes usar este comando {1} vez/veces por ronda."
+        "pt"        "Você só pode usar este comando {1} vez/vezes por round."
+	}
+	"Dead"
+	{
+		"en"		"You must be dead to use this command."
+		"es"		"Tienes que estar muerto para usar este comando."
+		"pt"		"Você precisa estar morto para usar este comando."
+	}
+	"Terrorist"
+	{
+		"en"		"You must be Terrorist to use this command."
+		"es"		"Tienes que ser Terrorista para usar el comando."
+		"pt"		"Vocêp precisar ser um Terrorista para usar este comando."
+	}
+	"Successful"
+	{
+		"en"		"Report successful."
+		"es"		"Reporte exitoso."
+		"pt"		"Reporte feito com sucesso."
+	}
+	"Reported"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{purple}{1}{green} reported a freekill made by {purple}{2}."
+		"es"		"{purple}{1}{green} reporto un freekill hecho por {purple}{2}."
+		"pt"		"{purple}{1}{green} reportou um freekil feito por {purple}{2}."
+	}
+	"Report Two"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"		"{1} reported a freekill made by {2}."
+		"es"		"{1} reporto un freekill hecho por {2}."
+		"pt"		"{1} reportou um freekil feito por {2}."
+	}	
+	"Killed CT"
+	{
+		"en"		"You must be killed by a CT to use this command."
+		"es"		"Tienes que ser asesinado por un CT para usar el comando."
+		"pt"		"Você Só pode usar este comando se for morto por um CT."
+	}
+	"Disabled"
+	{
+		"en"		"The command is disabled, please try again later."
+		"es"		"El comando esta desactivado, por favor intenta mas tarde."
+		"pt"		"Este comando está desativado, por favor tente novamente mais tarde."
+	}
+	"Admin Only"
+	{
+		"en"		"You are not allowed to use this command."
+		"es"		"No estas autorizado a usar este comando."
+		"pt"		"Você não tem permissão para usar este comando."
+	}
+	"Time Expired"
+	{
+		"#format"	"{1:i}"	
+		"en"		"You can only use this command after {1} seconds after your death."
+		"es"		"Solo podes usar este comando {1} segundos despues de morir."
+		"pt"		"Você só pode usar este comando até {1} segundos após a morte."
+	}		
+}
